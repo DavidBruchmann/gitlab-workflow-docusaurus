@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwebsite=globalThis.webpackChunkwebsite||[]).push([[1903],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/gitlab-workflow-docusaurus/blog","blogTitle":"Blog","authorsListPath":"/gitlab-workflow-docusaurus/blog/authors"}')}}]);
